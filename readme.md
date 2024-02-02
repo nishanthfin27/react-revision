@@ -1,1 +1,1 @@
-# start of react js course
+# Revision of React concepts with 10 projects.
